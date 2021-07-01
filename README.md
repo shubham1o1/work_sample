@@ -12,11 +12,18 @@ It was an exciting opportunity to work in a TDD approach. The feedback, solution
 The Personal Review:
 
 Persistence and Research : 3
+
 Knowledge and comprehension : 3
+
 Creativity and Design : 3
+
 Code Structure and Clean Code : 3
+
 Problem Solving, Analysis, Evaluation : 4
+
 Parts Completed : 4
+
 Total Score: 20/24
+
 
 PS: Here’s my LinkedIn profile: https://www.linkedin.com/in/shubham-subedi/ 
